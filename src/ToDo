@@ -1,0 +1,9 @@
+To do:
+
+[] make ABall concrete, take IUpdateStrategy
+[] 5 strategies
+[] combine
+[] switcher
+[] UML diagrams (MVC, strategies)
+[] documentation + generate javadocs
+[] README.txt
